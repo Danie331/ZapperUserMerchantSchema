@@ -66,5 +66,6 @@
     <Build Include="TransactionStatus.sql" />
     <Build Include="MerchantWallet.sql" />
     <Build Include="CheckUserSettingEnabled.sql" />
+    <Build Include="StoreSettingsInFile.sql" />
   </ItemGroup>
 </Project>
